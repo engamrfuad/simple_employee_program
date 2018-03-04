@@ -46,7 +46,7 @@ while to_run == "Y":
     if selector == "2":
         reader = open("employee.txt", "r")
         print "\n\n\n"
-        print "the database file contains the follwing .... \n\n\n\n {0}".format(reader.read())
+        print "the database file contains the follwing .... \n\n\n\n\n {0}".format(reader.read())
         reader.close()
 
     if selector == "3":

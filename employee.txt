@@ -2,3 +2,17 @@
 
 
 
+
+
+*****************************************
+Record     :  1
+Name       :  ahmed sayed
+Age        :  30
+Salary     :  2700
+Email      :  
+Department :  accounting
+work place :  nasr city
+
+*****************************************
+
+
